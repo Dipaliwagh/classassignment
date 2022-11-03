@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dipal
+ *
+ */
+module javapractical {
+}
